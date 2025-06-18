@@ -6,9 +6,6 @@ This is a terminal-based Python application that uses the Cohere API to generate
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/text-completion-app.git
-cd text-completion-app
-
 2. Create and Activate a Virtual Environment
 python3 -m venv .venv
 source .venv/bin/activate  # Mac/Linux
